@@ -81,6 +81,7 @@ def time_post():
 
 @app.route('/python_apps')
 def python_apps_page():
+	# testing stuff
 	return render_template('python_apps.html')
 
 

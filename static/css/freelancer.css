@@ -20,11 +20,7 @@ a:active,
 a.active {
   color: #18BC9C;
 }
-h1 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-  font-weight: 1200;
-}
+h1,
 h2,
 h3,
 h4,
@@ -88,7 +84,8 @@ header .intro-text .name {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 2em;
+  font-size: 8em;
+  // 2em
 }
 header .intro-text .skills {
   font-size: 1.25em;

@@ -20,7 +20,11 @@ a:active,
 a.active {
   color: #18BC9C;
 }
-h1,
+h1 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 1200;
+}
 h2,
 h3,
 h4,
